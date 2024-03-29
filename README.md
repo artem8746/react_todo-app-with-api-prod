@@ -2,6 +2,12 @@
 
 Todo app allows you to create todo, modify it by double click and delete it. Also allows to filter todos with all, active and completed options.
 
+### Used technologies
+
+- React
+- TypeScript
+- Bulma
+
 - [Demo](<https://artem8746.github.io/react_todo-app-with-api-prod/>)
 - [Design](<https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?type=design&node-id=15834-1506&mode=design&t=ucHrNk1tUQoe6hb3-0>)
 
